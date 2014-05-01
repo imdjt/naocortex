@@ -1,0 +1,13 @@
+author: niuguangyuan
+email: u0705666@gmail.com
+
+This project is be a set of APIs and can be used as a library anywhere using java
+
+1. what is the input?
+
+the input of this program consists of thousands of or tens of thousands of bits(raw).
+
+eg. 1000001000001111110000000000000001111...............
+
+
+the input stream will transform the state of the artificial cortex.
